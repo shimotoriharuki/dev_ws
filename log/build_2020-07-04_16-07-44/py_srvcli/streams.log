@@ -1,0 +1,22 @@
+[0.358s] Invoking command in '/home/haruki/dev_ws/src/py_srvcli': PYTHONPATH=/home/haruki/dev_ws/install/py_srvcli/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/haruki/dev_ws/build/py_srvcli build --build-base /home/haruki/dev_ws/build/py_srvcli/build install --prefix /home/haruki/dev_ws/install/py_srvcli --record /home/haruki/dev_ws/build/py_srvcli/install.log --single-version-externally-managed
+[0.541s] running egg_info
+[0.541s] writing /home/haruki/dev_ws/build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[0.541s] writing dependency_links to /home/haruki/dev_ws/build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[0.542s] writing entry points to /home/haruki/dev_ws/build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[0.542s] writing requirements to /home/haruki/dev_ws/build/py_srvcli/py_srvcli.egg-info/requires.txt
+[0.542s] writing top-level names to /home/haruki/dev_ws/build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[0.567s] reading manifest file '/home/haruki/dev_ws/build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.568s] writing manifest file '/home/haruki/dev_ws/build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.568s] running build
+[0.568s] running build_py
+[0.569s] running install
+[0.569s] running install_lib
+[0.571s] running install_data
+[0.571s] running install_egg_info
+[0.573s] removing '/home/haruki/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli-0.0.0-py3.8.egg-info' (and everything under it)
+[0.573s] Copying /home/haruki/dev_ws/build/py_srvcli/py_srvcli.egg-info to /home/haruki/dev_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli-0.0.0-py3.8.egg-info
+[0.574s] running install_scripts
+[0.587s] Installing client script to /home/haruki/dev_ws/install/py_srvcli/lib/py_srvcli
+[0.588s] Installing service script to /home/haruki/dev_ws/install/py_srvcli/lib/py_srvcli
+[0.588s] writing list of installed files to '/home/haruki/dev_ws/build/py_srvcli/install.log'
+[0.606s] Invoked command in '/home/haruki/dev_ws/src/py_srvcli' returned '0': PYTHONPATH=/home/haruki/dev_ws/install/py_srvcli/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/haruki/dev_ws/build/py_srvcli build --build-base /home/haruki/dev_ws/build/py_srvcli/build install --prefix /home/haruki/dev_ws/install/py_srvcli --record /home/haruki/dev_ws/build/py_srvcli/install.log --single-version-externally-managed

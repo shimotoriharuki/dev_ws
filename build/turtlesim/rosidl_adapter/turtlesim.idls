@@ -1,0 +1,8 @@
+/home/haruki/dev_ws/build/turtlesim/rosidl_adapter/turtlesim:action/RotateAbsolute.idl
+/home/haruki/dev_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Color.idl
+/home/haruki/dev_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Pose.idl
+/home/haruki/dev_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Kill.idl
+/home/haruki/dev_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/SetPen.idl
+/home/haruki/dev_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Spawn.idl
+/home/haruki/dev_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportAbsolute.idl
+/home/haruki/dev_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportRelative.idl

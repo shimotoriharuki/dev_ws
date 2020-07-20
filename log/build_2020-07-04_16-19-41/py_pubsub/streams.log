@@ -1,0 +1,22 @@
+[0.383s] Invoking command in '/home/haruki/dev_ws/src/py_pubsub': PYTHONPATH=/home/haruki/dev_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/haruki/dev_ws/build/py_pubsub build --build-base /home/haruki/dev_ws/build/py_pubsub/build install --prefix /home/haruki/dev_ws/install/py_pubsub --record /home/haruki/dev_ws/build/py_pubsub/install.log --single-version-externally-managed
+[0.568s] running egg_info
+[0.569s] writing /home/haruki/dev_ws/build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.569s] writing dependency_links to /home/haruki/dev_ws/build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.569s] writing entry points to /home/haruki/dev_ws/build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.569s] writing requirements to /home/haruki/dev_ws/build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.570s] writing top-level names to /home/haruki/dev_ws/build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.599s] reading manifest file '/home/haruki/dev_ws/build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.600s] writing manifest file '/home/haruki/dev_ws/build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.600s] running build
+[0.600s] running build_py
+[0.601s] running install
+[0.602s] running install_lib
+[0.603s] running install_data
+[0.604s] running install_egg_info
+[0.605s] removing '/home/haruki/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[0.606s] Copying /home/haruki/dev_ws/build/py_pubsub/py_pubsub.egg-info to /home/haruki/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[0.606s] running install_scripts
+[0.622s] Installing listener script to /home/haruki/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.623s] Installing talker script to /home/haruki/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.623s] writing list of installed files to '/home/haruki/dev_ws/build/py_pubsub/install.log'
+[0.640s] Invoked command in '/home/haruki/dev_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/haruki/dev_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/haruki/dev_ws/build/py_pubsub build --build-base /home/haruki/dev_ws/build/py_pubsub/build install --prefix /home/haruki/dev_ws/install/py_pubsub --record /home/haruki/dev_ws/build/py_pubsub/install.log --single-version-externally-managed

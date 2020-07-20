@@ -1,0 +1,21 @@
+[0.009s] Invoking command in '/home/haruki/dev_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/haruki/dev_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/haruki/dev_ws/install/tutorial_interfaces
+[0.022s] -- Found ament_cmake: 0.9.6 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.038s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.175s] -- Found rosidl_default_generators: 1.0.0 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[0.178s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_connext_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.183s] -- Found rosidl_adapter: 1.0.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.191s] -- Found RTI Connext: /opt/rti.com/rti_connext_dds-5.3.1
+[0.892s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.915s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.976s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_connext_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.997s] CMake Error at /opt/ros/foxy/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:93 (message):
+[0.997s]   rosidl_generate_interfaces() the passed file 'srv/AddThreeInts.srv' doesn't
+[0.997s]   exist relative to the CMAKE_CURRENT_SOURCE_DIR
+[0.997s]   '/home/haruki/dev_ws/src/tutorial_interfaces'
+[0.997s] Call Stack (most recent call first):
+[0.997s]   CMakeLists.txt:26 (rosidl_generate_interfaces)
+[0.997s] 
+[0.998s] 
+[0.998s] -- Configuring incomplete, errors occurred!
+[0.998s] See also "/home/haruki/dev_ws/build/tutorial_interfaces/CMakeFiles/CMakeOutput.log".
+[1.002s] Invoked command in '/home/haruki/dev_ws/build/tutorial_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/haruki/dev_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/haruki/dev_ws/install/tutorial_interfaces

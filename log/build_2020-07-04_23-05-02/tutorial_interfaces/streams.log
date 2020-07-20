@@ -1,0 +1,25 @@
+[0.009s] Invoking command in '/home/haruki/dev_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/haruki/dev_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/haruki/dev_ws/install/tutorial_interfaces
+[0.055s] -- The C compiler identification is GNU 9.3.0
+[0.098s] -- The CXX compiler identification is GNU 9.3.0
+[0.101s] -- Check for working C compiler: /usr/bin/cc
+[0.155s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.156s] -- Detecting C compiler ABI info
+[0.211s] -- Detecting C compiler ABI info - done
+[0.221s] -- Detecting C compile features
+[0.221s] -- Detecting C compile features - done
+[0.224s] -- Check for working CXX compiler: /usr/bin/c++
+[0.290s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.291s] -- Detecting CXX compiler ABI info
+[0.358s] -- Detecting CXX compiler ABI info - done
+[0.369s] -- Detecting CXX compile features
+[0.369s] -- Detecting CXX compile features - done
+[0.371s] -- Found ament_cmake: 0.9.6 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.390s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.2", minimum required is "3") 
+[0.390s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.539s] CMake Error at CMakeLists.txt:23 (rosidl_generate_interfaces):
+[0.540s]   Unknown CMake command "rosidl_generate_interfaces".
+[0.540s] 
+[0.540s] 
+[0.540s] -- Configuring incomplete, errors occurred!
+[0.540s] See also "/home/haruki/dev_ws/build/tutorial_interfaces/CMakeFiles/CMakeOutput.log".
+[0.543s] Invoked command in '/home/haruki/dev_ws/build/tutorial_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/haruki/dev_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/haruki/dev_ws/install/tutorial_interfaces

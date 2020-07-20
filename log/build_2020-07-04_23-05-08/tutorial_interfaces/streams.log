@@ -1,0 +1,10 @@
+[0.008s] Invoking command in '/home/haruki/dev_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/haruki/dev_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/haruki/dev_ws/install/tutorial_interfaces
+[0.023s] -- Found ament_cmake: 0.9.6 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.042s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.179s] CMake Error at CMakeLists.txt:23 (rosidl_generate_interfaces):
+[0.179s]   Unknown CMake command "rosidl_generate_interfaces".
+[0.179s] 
+[0.179s] 
+[0.179s] -- Configuring incomplete, errors occurred!
+[0.180s] See also "/home/haruki/dev_ws/build/tutorial_interfaces/CMakeFiles/CMakeOutput.log".
+[0.181s] Invoked command in '/home/haruki/dev_ws/build/tutorial_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/haruki/dev_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/haruki/dev_ws/install/tutorial_interfaces
